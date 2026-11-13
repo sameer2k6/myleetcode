@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sameer2k6/myleetcode/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/sameer2k6/myleetcode/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
