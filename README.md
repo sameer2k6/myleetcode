@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sameer2k6/myleetcode/tree/master/0016-3sum-closest) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameer2k6/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sameer2k6/myleetcode/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/sameer2k6/myleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1572-matrix-diagonal-sum](https://github.com/sameer2k6/myleetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sameer2k6/myleetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sameer2k6/myleetcode/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/sameer2k6/myleetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sameer2k6/myleetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sameer2k6/myleetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
