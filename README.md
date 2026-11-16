@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sameer2k6/myleetcode/tree/master/0016-3sum-closest) |
+| [0054-spiral-matrix](https://github.com/sameer2k6/myleetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameer2k6/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sameer2k6/myleetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/sameer2k6/myleetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sameer2k6/myleetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/sameer2k6/myleetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sameer2k6/myleetcode/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/sameer2k6/myleetcode/tree/master/1603-design-parking-system) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sameer2k6/myleetcode/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sameer2k6/myleetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Stack
 |  |
