@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sameer2k6/myleetcode/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sameer2k6/myleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/sameer2k6/myleetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sameer2k6/myleetcode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sameer2k6/myleetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sameer2k6/myleetcode/tree/master/0016-3sum-closest) |
 | [0054-spiral-matrix](https://github.com/sameer2k6/myleetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameer2k6/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sameer2k6/myleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/sameer2k6/myleetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/sameer2k6/myleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1572-matrix-diagonal-sum](https://github.com/sameer2k6/myleetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sameer2k6/myleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sameer2k6/myleetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sameer2k6/myleetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
