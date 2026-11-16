@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0065-valid-number](https://github.com/sameer2k6/myleetcode/tree/master/0065-valid-number) |
 | [0412-fizz-buzz](https://github.com/sameer2k6/myleetcode/tree/master/0412-fizz-buzz) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sameer2k6/myleetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/sameer2k6/myleetcode/tree/master/1572-matrix-diagonal-sum) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sameer2k6/myleetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
