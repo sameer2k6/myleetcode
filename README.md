@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/sameer2k6/myleetcode/tree/master/0016-3sum-closest) |
 | [0054-spiral-matrix](https://github.com/sameer2k6/myleetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/sameer2k6/myleetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sameer2k6/myleetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameer2k6/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sameer2k6/myleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sameer2k6/myleetcode/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/sameer2k6/myleetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sameer2k6/myleetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/sameer2k6/myleetcode/tree/master/0217-contains-duplicate) |
 ## String
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sameer2k6/myleetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sameer2k6/myleetcode/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
