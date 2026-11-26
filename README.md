@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sameer2k6/myleetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/sameer2k6/myleetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/sameer2k6/myleetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2349-design-a-number-container-system](https://github.com/sameer2k6/myleetcode/tree/master/2349-design-a-number-container-system) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/sameer2k6/myleetcode/tree/master/1603-design-parking-system) |
+| [2349-design-a-number-container-system](https://github.com/sameer2k6/myleetcode/tree/master/2349-design-a-number-container-system) |
 ## Counting
 |  |
 | ------- |
@@ -143,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sameer2k6/myleetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/sameer2k6/myleetcode/tree/master/2349-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/sameer2k6/myleetcode/tree/master/2349-design-a-number-container-system) |
 <!---LeetCode Topics End-->
